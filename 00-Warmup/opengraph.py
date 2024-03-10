@@ -28,5 +28,3 @@ def fetch_metadata(url):
 # import pprint
 # pp = pprint.PrettyPrinter(indent=4)
 # pp.pprint(fetch_metadata("https://www.github.com"))
-
-print(fetch_metadata("https://www.github.com"))
